@@ -79,7 +79,7 @@ If your fave stack is missing, **open an issue** or flex your own PR!
 ## 💬 Support
 
 - Hit up [Echo Playground](https://echo.brahmai.in) for interactive demos
-- For enterprise, student discounts, or general sass: [support@brahmai.com](mailto:support@brahmai.com)
+- For enterprise, student discounts, or general sass: [support@brahmai.in](mailto:support@brahmai.com)
 
 ---
 
