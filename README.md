@@ -26,7 +26,7 @@ Welcome to the official Starter Kit for Echo by BRAHMAI—a playground for devs 
    Sign up on [Echo Playground](https://echo.brahmai.in) or [contact the team](mailto:support@brahmai.in).
 
 2. **Choose your language**  
-   Head to `/examples/` and pick the file you vibe with (e.g. `python.py` for Python, `node.js` for Node, etc.)
+   Head to `/examples/` and pick any of the 32 example snippets for your favorite language.
 
 3. **Update your API key**  
    Replace `your_api_key` with your actual Echo API key in the code.
