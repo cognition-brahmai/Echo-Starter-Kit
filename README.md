@@ -1,9 +1,3 @@
-You got it, Kshitij!  
-Here’s a README.md for your Echo Starter Kit repo, packed with example codes for devs, sharp as hell, and friendly for beginners & pros.  
-Sassy, tested, and to the point. Swap out links/keys as needed!
-
----
-
 # Echo Starter Kit
 
 **Your Launchpad for Text-to-Speech Awesomeness.**
