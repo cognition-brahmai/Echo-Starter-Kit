@@ -23,7 +23,7 @@ Welcome to the official Starter Kit for Echo by BRAHMAI—a playground for devs 
 ## 🚀 Usage
 
 1. **Get your API key**  
-   Sign up on [Echo Playground](https://echo.yourdomain.in) or [contact the team](mailto:support@brahmai.com).
+   Sign up on [Echo Playground](https://echo.brahmai.in) or [contact the team](mailto:support@brahmai.in).
 
 2. **Choose your language**  
    Head to `/examples/` and pick the file you vibe with (e.g. `python.py` for Python, `node.js` for Node, etc.)
